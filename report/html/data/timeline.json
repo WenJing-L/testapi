@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-RQBUTLC",
+    "children" : [ {
+      "name" : "10208-MainThread",
+      "children" : [ {
+        "name" : "test_s",
+        "uid" : "cb88aa29fe36d0ee",
+        "parentUid" : "e4919ba101bdb7f35f3ef99968aa6c48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586542933304,
+          "stop" : 1586542933373,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4919ba101bdb7f35f3ef99968aa6c48"
+    } ],
+    "uid" : "b572af0d3219af0347fe351ee86d10a0"
+  } ]
+}

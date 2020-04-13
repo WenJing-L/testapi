@@ -1,0 +1,76 @@
+{
+  "uid" : "cb88aa29fe36d0ee",
+  "name" : "test_s",
+  "fullName" : "testcase.test_study.Teststudy#test_s",
+  "historyId" : "dc1cc530bc53d31e0f12ed65fba15850",
+  "time" : {
+    "start" : 1586542933304,
+    "stop" : 1586542933373,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1586542933210,
+      "stop" : 1586542933301,
+      "duration" : 91
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "成功获取"
+  }, {
+    "name" : "feature",
+    "value" : "获取学习动态"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_study"
+  }, {
+    "name" : "subSuite",
+    "value" : "Teststudy"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RQBUTLC"
+  }, {
+    "name" : "thread",
+    "value" : "10208-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_study"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb88aa29fe36d0ee.json",
+  "parameterValues" : [ ]
+}

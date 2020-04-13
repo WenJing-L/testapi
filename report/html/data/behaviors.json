@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "获取学习动态",
+    "children" : [ {
+      "name" : "成功获取",
+      "children" : [ {
+        "name" : "test_s",
+        "uid" : "cb88aa29fe36d0ee",
+        "parentUid" : "71f6c5c4241300f15b594069d516cabb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586542933304,
+          "stop" : 1586542933373,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "71f6c5c4241300f15b594069d516cabb"
+    } ],
+    "uid" : "ec175ec961f3da46f49453d4bfa38be0"
+  } ]
+}
